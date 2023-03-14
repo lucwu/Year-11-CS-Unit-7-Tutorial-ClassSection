@@ -1,5 +1,7 @@
 # Year-11-CS-Unit-7-Tutorial-ClassSection
 
+Lucas Wu
+
 Your job is to create two classes called ClassSection and Student. 
 You should pass all of the tests in the ClassSectionTester class.
 
